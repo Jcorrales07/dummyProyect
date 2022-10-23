@@ -1,0 +1,19 @@
+{
+  "name": "dummyproyect",
+  "version": "1.0.0",
+  "description": "a dummy project",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcorrales07/dummyProyect.git"
+  },
+  "author": "Joe Corrales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcorrales07/dummyProyect/issues"
+  },
+  "homepage": "https://github.com/Jcorrales07/dummyProyect#readme"
+}
